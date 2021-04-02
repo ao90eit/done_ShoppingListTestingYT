@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81b5290d-bca8-4cd4-a71d-24a0ace22284" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_API_29]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin File" />
+        <option value="navigationResourceFile" />
+        <option value="Kotlin Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="TestItemDeletion" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1p5h6wkBEDDfBEHORscjkU08hWg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/androidTest/java/com/androiddevs/shoppinglisttestingyt/ui" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/androidTest/java/com/androiddevs/shoppinglisttestingyt" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.androiddevs.shoppinglisttestingyt.ui" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.androiddevs.shoppinglisttestingyt.ui" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.androiddevs.shoppinglisttestingyt.ui" />
+      <recent name="com.androiddevs.shoppinglisttestingyt.adapters" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.androiddevs.shoppinglisttestingyt" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/androidTest/java/com/androiddevs/shoppinglisttestingyt" />
+      <recent name="$PROJECT_DIR$/app/src/debug/java/com/androiddevs/shoppinglisttestingyt" />
+      <recent name="$PROJECT_DIR$/app/src/test/java/com/androiddevs/shoppinglisttestingyt" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/debug" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/androiddevs/shoppinglisttestingyt/data/remote" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Instrumented Tests.swipeShoppingItem_...()">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="ShoppingListTestingYT.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clickImage_popBack...()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="ShoppingListTestingYT.app" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="clickImage_popBackStackAndSetImageUrl" />
+      <option name="CLASS_NAME" value="com.androiddevs.shoppinglisttestingyt.ui.ImagePickFragmentTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clickInsertIntoDb_...()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="ShoppingListTestingYT.app" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="clickInsertIntoDb_shoppingItemInsertedIntoDb" />
+      <option name="CLASS_NAME" value="com.androiddevs.shoppinglisttestingyt.ui.AddShoppingItemFragmentTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clockImage_popBack...()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="ShoppingListTestingYT.app" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="clockImage_popBackStackAndSetImageUrl" />
+      <option name="CLASS_NAME" value="com.androiddevs.shoppinglisttestingyt.ui.ImagePickFragmentTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pressBackButton_re...()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="ShoppingListTestingYT.app" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="pressBackButton_resetCurImageUrl" />
+      <option name="CLASS_NAME" value="com.androiddevs.shoppinglisttestingyt.ui.AddShoppingItemFragmentTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swipeShoppingItem_...()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="ShoppingListTestingYT.app" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="swipeShoppingItem_deleteItemInDb" />
+      <option name="CLASS_NAME" value="com.androiddevs.shoppinglisttestingyt.ui.ShoppingFragmentTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android Instrumented Tests.swipeShoppingItem_...()" />
+        <item itemvalue="Android Instrumented Tests.clickInsertIntoDb_...()" />
+        <item itemvalue="Android Instrumented Tests.pressBackButton_re...()" />
+        <item itemvalue="Android Instrumented Tests.clickImage_popBack...()" />
+        <item itemvalue="Android Instrumented Tests.clockImage_popBack...()" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81b5290d-bca8-4cd4-a71d-24a0ace22284" name="Default Changelist" comment="" />
+      <created>1614478686228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614478686228</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="263" key="#Notifications" timestamp="1615251750006">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state x="557" y="263" key="#Notifications/54.25.1226.775@54.25.1226.775" timestamp="1615251750006" />
+    <state x="546" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617298737646">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state x="546" y="218" key="#com.intellij.fileTypes.FileTypeChooser/54.25.1226.775@54.25.1226.775" timestamp="1617298737646" />
+    <state x="607" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1617381095275">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state x="607" y="132" key="#com.intellij.ide.util.MemberChooser/54.25.1226.775@54.25.1226.775" timestamp="1617381095275" />
+    <state x="342" y="298" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1616430294141">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="342" y="298" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.25.1280.775@0.25.1280.775" timestamp="1616430294141" />
+    <state x="382" y="298" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/54.25.1226.775@54.25.1226.775" timestamp="1616169926817" />
+    <state x="491" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1617382366197">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state x="491" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/54.25.1226.775@54.25.1226.775" timestamp="1617382366196" />
+    <state x="653" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617382381225">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state x="653" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/54.25.1226.775@54.25.1226.775" timestamp="1617382381225" />
+    <state x="357" y="208" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1617032353562">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state x="357" y="208" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/54.25.1226.775@54.25.1226.775" timestamp="1617032353562" />
+    <state x="361" y="171" key="AndroidCreateResourceDirectoryDialog" timestamp="1617298701530">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state x="321" y="171" key="AndroidCreateResourceDirectoryDialog/0.25.1280.775@0.25.1280.775" timestamp="1616430022443" />
+    <state x="361" y="171" key="AndroidCreateResourceDirectoryDialog/54.25.1226.775@54.25.1226.775" timestamp="1617298701530" />
+    <state x="456" y="171" key="AndroidCreateResourceFileDialog" timestamp="1617290491297">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state x="456" y="171" key="AndroidCreateResourceFileDialog/54.25.1226.775@54.25.1226.775" timestamp="1617290491297" />
+    <state x="674" y="163" key="AndroidProcessChooserDialog" timestamp="1617293085614">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state x="674" y="163" key="AndroidProcessChooserDialog/54.25.1226.775@54.25.1226.775" timestamp="1617293085614" />
+    <state x="397" y="25" key="CommitChangelistDialog2" timestamp="1614479537570">
+      <screen x="51" y="25" width="1229" height="775" />
+    </state>
+    <state x="397" y="25" key="CommitChangelistDialog2/51.25.1229.775@51.25.1229.775" timestamp="1614479537570" />
+    <state width="688" height="163" key="GridCell.Tab.0.bottom" timestamp="1617401248943">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state width="1051" height="195" key="GridCell.Tab.0.bottom/0.25.1280.775@0.25.1280.775" timestamp="1616430863294" />
+    <state width="1078" height="195" key="GridCell.Tab.0.bottom/52.25.1228.775@52.25.1228.775" timestamp="1614980372554" />
+    <state width="688" height="163" key="GridCell.Tab.0.bottom/54.25.1226.775@54.25.1226.775" timestamp="1617401248943" />
+    <state width="688" height="163" key="GridCell.Tab.0.center" timestamp="1617401248942">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state width="1051" height="195" key="GridCell.Tab.0.center/0.25.1280.775@0.25.1280.775" timestamp="1616430863293" />
+    <state width="1078" height="195" key="GridCell.Tab.0.center/52.25.1228.775@52.25.1228.775" timestamp="1614980372552" />
+    <state width="688" height="163" key="GridCell.Tab.0.center/54.25.1226.775@54.25.1226.775" timestamp="1617401248942" />
+    <state width="688" height="163" key="GridCell.Tab.0.left" timestamp="1617401248941">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state width="1051" height="195" key="GridCell.Tab.0.left/0.25.1280.775@0.25.1280.775" timestamp="1616430863292" />
+    <state width="1078" height="195" key="GridCell.Tab.0.left/52.25.1228.775@52.25.1228.775" timestamp="1614980372552" />
+    <state width="688" height="163" key="GridCell.Tab.0.left/54.25.1226.775@54.25.1226.775" timestamp="1617401248941" />
+    <state width="688" height="163" key="GridCell.Tab.0.right" timestamp="1617401248942">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state width="1051" height="195" key="GridCell.Tab.0.right/0.25.1280.775@0.25.1280.775" timestamp="1616430863293" />
+    <state width="1078" height="195" key="GridCell.Tab.0.right/52.25.1228.775@52.25.1228.775" timestamp="1614980372552" />
+    <state width="688" height="163" key="GridCell.Tab.0.right/54.25.1226.775@54.25.1226.775" timestamp="1617401248942" />
+    <state x="538" y="137" key="RollbackChangesDialog" timestamp="1616430429129">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="538" y="137" key="RollbackChangesDialog/0.25.1280.775@0.25.1280.775" timestamp="1616430429129" />
+    <state x="568" y="137" key="RollbackChangesDialog/51.25.1229.775@51.25.1229.775" timestamp="1614479542730" />
+    <state x="251" y="48" key="SettingsEditor" timestamp="1617401357500">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state x="251" y="48" key="SettingsEditor/54.25.1226.775@54.25.1226.775" timestamp="1617401357500" />
+    <state x="546" y="194" key="chooseDestDirectoryDialog" timestamp="1617302823630">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state x="514" y="194" key="chooseDestDirectoryDialog/0.25.1280.775@0.25.1280.775" timestamp="1616430405680" />
+    <state x="546" y="194" key="chooseDestDirectoryDialog/54.25.1226.775@54.25.1226.775" timestamp="1617302823630" />
+    <state x="215" y="167" width="1065" height="490" key="find.popup" timestamp="1617381339425">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state x="215" y="167" width="1065" height="490" key="find.popup/54.25.1226.775@54.25.1226.775" timestamp="1617381339425" />
+    <state x="583" y="129" key="git4idea.branch.GitSmartOperationDialog" timestamp="1614479528801">
+      <screen x="51" y="25" width="1229" height="775" />
+    </state>
+    <state x="583" y="129" key="git4idea.branch.GitSmartOperationDialog/51.25.1229.775@51.25.1229.775" timestamp="1614479528801" />
+    <state x="513" y="130" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1617302823671">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state x="513" y="130" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/54.25.1226.775@54.25.1226.775" timestamp="1617302823671" />
+    <state x="535" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1617303269848">
+      <screen x="54" y="25" width="1226" height="775" />
+    </state>
+    <state x="502" y="124" width="700" height="676" key="search.everywhere.popup/0.25.1280.775@0.25.1280.775" timestamp="1616430111577" />
+    <state x="533" y="124" width="670" height="676" key="search.everywhere.popup/51.25.1229.775@51.25.1229.775" timestamp="1614479430797" />
+    <state x="535" y="124" width="670" height="676" key="search.everywhere.popup/54.25.1226.775@54.25.1226.775" timestamp="1617303269848" />
+  </component>
+</project>
